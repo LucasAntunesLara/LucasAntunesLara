@@ -1,5 +1,5 @@
 ### Eaí! Bem-vindo ao meu GitHub!🤘
-Eu me chamo Lucas Antunes. Estudo Informática para Internet no IFRS - Campus Bento Gonçalves (Ano 1/3).
+Eu estudo Informática para Internet no IFRS - Campus Bento Gonçalves (Ano 1/3).
 <br>Aqui, publico meus arquivos e projetos desenvolvidos ao longo do curso.
 
 [![Lucas Antunes GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAntunes06&show_icons=true&theme=nightowl)](https://github.com/LucasAntunes06/github-readme-stats)
