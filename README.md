@@ -11,28 +11,6 @@ Eu estudo Informática para Internet no IFRS - Campus Bento Gonçalves (Ano 1/3)
 </div>
 <br>
 <h2> 🔝Projetos desenvolvidos</h2>
-  <div style="display: inline_block;">
-   <a src="https://github.com/LucasAntunes06/copa-do-mundo-2022"><h4>Site sobre a Copa do Mundo 2022 🏆</h4></a>
-    <a src="https://github.com/LucasAntunes06/Urna-Eletronica"><h4>Simulador de Urna Eletrônica 🗳️</h4></a>
-  </div>
- 
 
-
-
-
-
-
-<!--
-**LucasAntunes06/LucasAntunes06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Site sobre a Copa do Mundo 2022](https://github.com/LucasAntunes06/copa-do-mundo-2022) 🏆<br/>
+- [Simulador de Urna Eletrônica](https://github.com/LucasAntunes06/Urna-Eletronica) 🗳️<br/>
