@@ -12,7 +12,7 @@ Eu estudo Informática para Internet no IFRS - Campus Bento Gonçalves (Ano 1/3)
 </div>
 
 ## O que mais gosto de programar 💻
- No geral, gosto de tudo, mas o que mais encontro facilidade é de trabalhar **interaçãoes com o usuário** e **criar estilos**!
+ No geral, gosto de tudo, mas o que mais encontro facilidade é em **interaçãoes com o usuário** e **criando estilos**!
 <br>
 <h2> 🔝Projetos desenvolvidos</h2>
 
