@@ -3,7 +3,7 @@ Eu estudo Informática para Internet no IFRS - Campus Bento Gonçalves (Ano 1/3)
 <br>Aqui, publico meus arquivos e projetos desenvolvidos ao longo do curso.
 
 [![Lucas Antunes GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAntunes06&show_icons=true&theme=dracula)](https://github.com/LucasAntunes06/github-readme-stats)
-<h2> ✅Linguagen que mais uso </h2>
+<h2> ✅Linguagens que mais uso </h2>
 <div style="display: inline_block;">
   <img align="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
