@@ -1,6 +1,6 @@
 ### Eaí! Bem-vindo ao meu GitHub!🤘
 
-<p>Eu estudo Informática para Internet no IFRS - Campus Bento Gonçalves (Ano 1/3).</p>
+<p>Eu estudo Informática para Internet no IFRS - Campus Bento Gonçalves (Ano 2/3).</p>
 <p>Aqui, publico meus arquivos e projetos desenvolvidos ao longo do curso.</p>
 
  <div align="center">
