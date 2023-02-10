@@ -1,3 +1,4 @@
+![GitHub Header](https://user-images.githubusercontent.com/104913618/218223443-d4dd7ff2-e661-4681-9687-ee280bc4eac0.png)
 ### Eaí! Bem-vindo ao meu GitHub!🤘
 
 <p>Eu estudo Informática para Internet no IFRS - Campus Bento Gonçalves (Ano 2/3).</p>
