@@ -1,15 +1,7 @@
-![GitHub Header](https://user-images.githubusercontent.com/104913618/218223443-d4dd7ff2-e661-4681-9687-ee280bc4eac0.png)
 ### Eaí! Bem-vindo ao meu GitHub!🤘
 
 <p>Eu estudo Informática para Internet no IFRS - Campus Bento Gonçalves (Ano 2/3).</p>
 <p>Aqui, publico meus arquivos e projetos desenvolvidos ao longo do curso.</p>
-
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasAntunes06&show_icons=true&theme=nightowl"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAntunes06&theme=nightowl"/>
-</div>
-
- <br></br>
 
 ## ❤️💻Tecnologias favoritas
 <div align="center">
