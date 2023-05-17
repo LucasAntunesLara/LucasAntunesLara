@@ -31,11 +31,6 @@
        Um simples quiz feito com PHP e HTML. Foi o tabalho final da diciplpina de Algoritmos.
     </details>
     
- - ### [Site de hamburgueria](https://github.com/LucasAntunes06/interface-web/tree/main/Fevereiro/Aula%2003) 🍔
-    <details>
-       Trabalho de Interface Web construído com HTML e CSS em que fiz a página inicial de uma hamburgueria fictícia.
-    </details>
-    
  - ### [Site sobre a Copa do Mundo 2022](https://github.com/LucasAntunes06/copa-do-mundo-2022) 🏆
     <details>
       Site mostrando os grupos da Copa e a classificação dos times. Feito com HTML e CSS.
