@@ -13,14 +13,14 @@
  
 ## 🧠Alguns projetos/trabalhos que criei
   
-- ### [Jogo da memória](https://github.com/LucasAntunes06/jogo-da-memoria) 🧠
+- ### [Jogo da memória](https://lucasantunes06.github.io/jogo-da-memoria) 🧠
      
 - ### [Simulador de urna eletrônica](https://github.com/LucasAntunes06/Urna-Eletronica) 🗳️
     <details>
        Aplicação que simula uma urna eletrônica. Feito com HTML, CSS e Javascript.
     </details>
     
- - ### [Tabuleiro de xadrex - movimentos do cavalo](https://github.com/LucasAntunes06/xadrez-cavalo) 🐎
+ - ### [Tabuleiro de xadrex - movimentos do cavalo](https://lucasantunes06.github.io/xadrez-cavalo) 🐎
     <details>
        Tabuleiro de xadrez em que prevê todas as possíveis posições em que a peça do cavalo pode se mover. Feito com HTML, CSS e Javascript.
     </details>
@@ -30,7 +30,7 @@
        Um  quiz simples feito com PHP, HTML e CSS. Foi o trabalho final da disciplina de Algoritmos.
     </details>
     
- - ### [Site sobre a Copa do Mundo 2022](https://github.com/LucasAntunes06/copa-do-mundo-2022) 🏆
+ - ### [Site sobre a Copa do Mundo 2022](https://lucasantunes06.github.io/site-da-copa-2022) 🏆
     <details>
       Site mostrando os grupos da Copa e a classificação dos times. Feito com HTML, Tailwind CSS e JS.
     </details>
