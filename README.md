@@ -12,26 +12,26 @@
 </div>
  
 ## 🧠Alguns projetos/trabalhos que criei
-- ### [Repositório de Links](https://github.com/LucasAntunes06/pw2/tree/main/semestre_2/08%20-%20Agosto/trabalho_3)
+-  [Repositório de Links](https://github.com/LucasAntunes06/pw2/tree/main/semestre_2/08%20-%20Agosto/trabalho_3)
   
-- ### [Jogo da memória](https://lucasantunes06.github.io/jogo-da-memoria) 🧠
+- [Jogo da memória](https://lucasantunes06.github.io/jogo-da-memoria) 🧠
      
-- ### [Simulador de urna eletrônica](https://github.com/LucasAntunes06/Urna-Eletronica) 🗳️
+- [Simulador de urna eletrônica](https://github.com/LucasAntunes06/Urna-Eletronica) 🗳️
     <details>
        Aplicação que simula uma urna eletrônica. Feito com HTML, CSS e Javascript.
     </details>
     
- - ### [Tabuleiro de xadrex - movimentos do cavalo](https://lucasantunes06.github.io/xadrez-cavalo) 🐎
+ - [Tabuleiro de xadrex - movimentos do cavalo](https://lucasantunes06.github.io/xadrez-cavalo) 🐎
     <details>
        Tabuleiro de xadrez em que prevê todas as possíveis posições em que a peça do cavalo pode se mover. Feito com HTML, CSS e Javascript.
     </details>
     
- - ### [Quiz](https://github.com/LucasAntunes06/php/tree/main/Aulas/Dezembro/Trabalho%20Quiz)❓
+ - [Quiz](https://github.com/LucasAntunes06/php/tree/main/Aulas/Dezembro/Trabalho%20Quiz)❓
     <details>
        Um  quiz simples feito com PHP, HTML e CSS. Foi o trabalho final da disciplina de Algoritmos.
     </details>
     
- - ### [Site sobre a Copa do Mundo 2022](https://lucasantunes06.github.io/site-da-copa-2022) 🏆
+ - [Site sobre a Copa do Mundo 2022](https://lucasantunes06.github.io/site-da-copa-2022) 🏆
     <details>
       Site mostrando os grupos da Copa e a classificação dos times. Feito com HTML, Tailwind CSS e JS.
     </details>
