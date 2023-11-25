@@ -12,6 +12,7 @@
 </div>
  
 ## 🧠Alguns projetos/trabalhos que criei
+-  [Sistema de Estágios (IFRS)](https://github.com/LucasAntunes06/trabalho_estagios)
 -  [Repositório de Links](https://github.com/LucasAntunes06/pw2/tree/main/semestre_2/08%20-%20Agosto/trabalho_3)
   
 - [Jogo da memória](https://lucasantunes06.github.io/jogo-da-memoria) 🧠
