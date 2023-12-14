@@ -1,6 +1,6 @@
 ### Sobre o meu GitHub 💻
 
- - 📖Eu estudo **Informática para Internet** no IFRS - Campus Bento Gonçalves <img style="height:1rem" src="https://ifrs.edu.br/bento/wp-content/themes/ifrs-portal-theme/favicons/android-chrome-192x192.png"/> (Ano 2️⃣/3️⃣).
+ - 📖Eu estudo **Informática para Internet** (3º Ano) no IFRS - Campus Bento Gonçalves .
  - ✅Eu utilizo o GitHub como forma de armazenar os meus códigos e projetos desenvolvidos no curso e também acompanhar e minha evolução ao longo do tempo.
 
 ## ❤️💻Tecnologias favoritas
