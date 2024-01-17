@@ -15,14 +15,12 @@
 </div>
  
 ## 🧠Alguns projetos/trabalhos que criei
--  [Sistema de Estágios (IFRS)](https://github.com/LucasAntunes06/trabalho_estagios)
+-  [Sistema de Estágios (IFRS)](https://github.com/LucasAntunesDev/trabalho_estagios)
   
--  [Repositório de Links](https://github.com/LucasAntunes06/pw2/tree/main/semestre_2/08%20-%20Agosto/trabalho_3)
+-  [Repositório de Links](https://github.com/LucasAntunesDev/pw2/tree/main/semestre_2/08%20-%20Agosto/trabalho_3)
   
-- [Jogo da memória](https://lucasantunes06.github.io/jogo-da-memoria) 🧠
+- 🧠[Jogo da memória](https://LucasAntunesDev.github.io/jogo-da-memoria)
      
-- [Simulador de urna eletrônica](https://github.com/LucasAntunes06/urna-react) 🗳️
+- 🗳️[Simulador de urna eletrônica](https://github.com/LucasAntunesDev/urna-react) 
     
- - [Quiz](https://github.com/LucasAntunes06/php/tree/main/Aulas/Dezembro/Trabalho%20Quiz)❓
-    
- - [Site sobre a Copa do Mundo 2022](https://lucasantunes06.github.io/site-da-copa-2022) 🏆
+ - ❓[Quiz](https://github.com/LucasAntunesDev/Algoritmos/tree/main/Aulas/Dezembro/Trabalho%20Quiz)
