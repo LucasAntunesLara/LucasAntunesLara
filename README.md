@@ -22,13 +22,8 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
  
-## 
-| ✨  (Alguns) projetos ||
-| -------- | ------- |
-|🗃️ [Sistema de Estágios (IFRS)](https://github.com/LucasAntunesDev/trabalho_estagios)|
-|🟧🟩🟦🟪 [Clone do Conexo](https://github.com/LucasAntunesDev/conexo) |
-|✔️ [Lista de tarefas](https://github.com/LucasAntunesDev/lista-de-tarefas) |
-| 💾 [Repositório de Links](https://github.com/LucasAntunesDev/pw2/tree/main/semestre_2/08%20-%20Agosto/trabalho_3)|
-| 🧠 [Jogo da memória](https://LucasAntunesDev.github.io/jogo-da-memoria) |
-| 🗳️ [Simulador de urna eletrônica](https://github.com/LucasAntunesDev/urna-react) |
-|❓[Quiz](https://github.com/LucasAntunesDev/Algoritmos/tree/main/Aulas/Dezembro/Trabalho%20Quiz) |
+## ✨  (Alguns) projetos
+- 🗃️ [Sistema de Estágios (IFRS)](https://github.com/LucasAntunesDev/trabalho_estagios)
+- 🟧🟩🟦🟪 [Clone do Conexo](https://github.com/LucasAntunesDev/conexo)
+- ✔️ [Lista de tarefas](https://github.com/LucasAntunesDev/lista-de-tarefas)
+- 🗳️ [Simulador de urna eletrônica](https://github.com/LucasAntunesDev/urna-react)
