@@ -16,8 +16,6 @@
   <img lt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
  
-## ✨  (Alguns) projetos
+## ✨ Projetos
 - 🗃️ [Sistema de Estágios (IFRS)](https://github.com/LucasAntunesDev/trabalho_estagios)
 - 🎮 [Conexo Temático](https://github.com/LucasAntunesDev/conexo)
-- ✔️ [Lista de tarefas](https://github.com/LucasAntunesDev/lista-de-tarefas)
-- 🗳️ [Simulador de urna eletrônica](https://github.com/LucasAntunesDev/urna-react)
