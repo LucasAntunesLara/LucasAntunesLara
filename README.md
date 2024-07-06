@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou o Lucas!
 
  - 📖 Estudo **Informática para Internet** (3º Ano) no **IFRS - Campus Bento Gonçalves** .
- - ❤️ Gosto de utilizar a tecnologia a fim de resolver problemas reais.
  - 🎯 Utilizo o GitHub como forma de armazenar os meus códigos e projetos desenvolvidos no curso e também acompanhar e minha evolução ao longo do tempo.
  - 🖥️ Além disso, também desenvolvo projetos paralelos ao curso.
 
