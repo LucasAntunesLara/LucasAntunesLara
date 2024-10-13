@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Lucas!
-- 📖 Sou estudante de programação. Curso **Informática para Internet** (3º Ano) no **IFRS - Campus Bento Gonçalves**.
-- ❤️ Gosto de backend e sou apaixonado por frontend (especialmente **UI/UX**). Tenho também muito apreço pela área de Engenharia de Software.
-- 🧠 Construo meus softwares como uma forma de solucionar problemas cotidianos e **melhorar a experiência** dos usuários.
+- 📖 Sou estudante de programação.
+- Estou cursando **Informática para Internet** (3º Ano) no **IFRS - Campus Bento Gonçalves**.
+
 ## 🖥️❤️Tecnologias favoritas 
 <div>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> 
@@ -9,7 +9,6 @@
   <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img lt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&borderRadius"> 
 </div>
  
 ## ✨ Projetos
