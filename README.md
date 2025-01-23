@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Lucas!
-- 📖 Sou estudante de programação.
-- Sou formado em **Informática para Internet** pelo **IFRS - Campus Bento Gonçalves**.
+- 📖 Sou desenvolvedor web e estudante de **Análise e Desenvolvimento de Sistemas** no **IFRS - Campus Bento Gonçalves**.
+- Tenho também formação em **Informática para Internet** pela mesma instituição.
 
 ## 🖥️❤️Tecnologias favoritas 
 <div>
