@@ -1,6 +1,12 @@
-## 👋 Olá, eu sou o Lucas!
-- 📖 Sou desenvolvedor web e estudante de **Análise e Desenvolvimento de Sistemas** no **IFRS - Campus Bento Gonçalves**.
-- Tenho também formação em **Informática para Internet** pela mesma instituição.
+## Olá 👋, eu sou o Lucas!
+![Banner](https://github.com/user-attachments/assets/5a6f342a-10ea-4780-93d0-761856ee3e1e)
+
+<br>
+
+-  🧑‍💻 Desenvolvedor web com especidalidade em **frontend** e construção de **UI/UX** seguindo as melhores práticas.
+-  🐘💜 Ademais, possuo sólido conhecimento em **PHP** e sua framework **Laravel**.
+- 📖 Cursando o 1º semestre do curso de **Análise e Desenvolvimento de Sistemas** no **IFRS - Campus Bento Gonçalves**.
+- 🎓 Formado em **Informática para Internet** pela mesma instituição.
 
 ## 🖥️❤️Tecnologias favoritas 
 <div>
