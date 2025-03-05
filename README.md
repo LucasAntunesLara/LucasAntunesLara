@@ -1,5 +1,5 @@
 ## Olá 👋, eu sou o Lucas!
-![Banner](https://github.com/user-attachments/assets/5a6f342a-10ea-4780-93d0-761856ee3e1e)
+![Sem Título-1](https://github.com/user-attachments/assets/c24908d7-cbe4-4a42-be19-4cda4e324912)
 
 <br>
 
@@ -13,8 +13,14 @@
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> 
   <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</div>
+
+
+## 📖 Estudando
+<div>
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img alt="Next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </div>
  
 ## ✨ Alguns Projetos
