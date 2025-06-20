@@ -1,5 +1,5 @@
 ## Olá 👋, eu sou o Lucas!
-![Sem Título-1](https://github.com/user-attachments/assets/c24908d7-cbe4-4a42-be19-4cda4e324912)
+![Banner](https://github.com/user-attachments/assets/76fb0c6a-584e-4451-8659-3f837a66862f)
 
 <br>
 
