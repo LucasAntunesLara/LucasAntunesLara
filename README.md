@@ -1,23 +1,21 @@
 ## Olá 👋, eu sou o Lucas!
-![Banner](https://github.com/user-attachments/assets/1b165631-3d79-43a7-ab18-34372558d2e6)
+![Banner](https://github.com/user-attachments/assets/1f90b35c-099b-4b0f-9fa8-f91ed9712eb7)
 
-
-<br>
-
--  🧑‍💻 Desenvolvedor web com foco em **frontend** e construção de **UI/UX** seguindo as melhores práticas.
+-  🧑‍💻 Desenvolvedor web com foco em **frontend** e **construção de interfaces** e que também se aventura no bakcend ocasionalmente.
+- 🐧 Entusiasta de *open source* e tudo que envolve Linux
 - 📖 Cursando **Análise e Desenvolvimento de Sistemas** no **IFRS - Campus Bento Gonçalves**.
 - 🎓 Formado em **Informática para Internet** pela mesma instituição.
 
-## 🖥️❤️Tecnologias favoritas 
+## 🖥️❤️Tecnologias 
 <div>
   <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</div>
-
-
-## 📖 Estudando
-<div>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <img alt="Next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+  
 </div>
