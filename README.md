@@ -1,5 +1,5 @@
 ## Olá 👋, eu sou o Lucas!
-![Banner](https://github.com/user-attachments/assets/1f90b35c-099b-4b0f-9fa8-f91ed9712eb7)
+![Banner](https://github.com/user-attachments/assets/da8f30f9-1b19-45d8-90d2-7f1a0dc16b80)
 
 -  🧑‍💻 Desenvolvedor web com foco em **frontend** e **construção de interfaces** e que também se aventura no bakcend ocasionalmente.
 - 🐧 Entusiasta de *open source* e tudo que envolve Linux
