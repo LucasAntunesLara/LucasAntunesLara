@@ -1,9 +1,9 @@
 ## Olá 👋, eu sou o Lucas!
-![Banner](https://github.com/user-attachments/assets/e7b21279-81bf-4f84-a4b6-9a4c2a0decea)
+![Banner](https://github.com/user-attachments/assets/e95623ae-d2e4-4025-b169-9862196374f9)
 
--  🧑‍💻 Desenvolvedor web com foco em **frontend** e **construção de interfaces** e que também se aventura no bakcend ocasionalmente.
+-  🧑‍💻 Desenvolvedor web full stack.
 - 🐧 Entusiasta de *open source* e tudo que envolve Linux
-- 📖 Cursando **Análise e Desenvolvimento de Sistemas** no **IFRS - Campus Bento Gonçalves**.
+- 📖 Graduando em **Análise e Desenvolvimento de Sistemas** no **IFRS - Campus Bento Gonçalves**.
 - 🎓 Formado em **Informática para Internet** pela mesma instituição.
 
 ## 🖥️❤️Tecnologias e ferramentas
@@ -17,5 +17,4 @@
   <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Zorin OS" src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
-  
 </div>
