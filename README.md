@@ -1,5 +1,5 @@
 ## Olá 👋, eu sou o Lucas!
-![Banner](https://github.com/user-attachments/assets/e95623ae-d2e4-4025-b169-9862196374f9)
+![Banner](https://github.com/user-attachments/assets/ea464fe2-2c94-49e4-9aab-10c88a691c61)
 
 -  🧑‍💻 Desenvolvedor web full stack.
 - 🐧 Entusiasta de *open source* e tudo que envolve Linux
